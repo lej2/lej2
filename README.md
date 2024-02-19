@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lej2
-- 👀 I’m interested in machine learning.
-- 🌱 I’m currently learning time series, matlab, R, python and other applied mathematics technique.
-- 💞️ I’m looking to collaborate on machine learning techniques
+- 👀 I’m interested in data analytics and data science.
+- 🌱 I’m currently learning common technologies such Python, R, SAS, SPSS, Tableau, Power BI and SQL.
+- 💞️ I’m looking to collaborate on machine-learning and other data science techniques.
 - 📫 How to reach me: my email leahe924@gmail.com
 Please specify who you are and how you found me please.
 

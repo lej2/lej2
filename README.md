@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning.
 - 🌱 I’m currently learning time series, matlab, R, python and other applied mathematics technique.
 - 💞️ I’m looking to collaborate on machine learning techniques
-- 📫 How to reach me: my email monroeeagles2014@gmail.com
+- 📫 How to reach me: my email leahe924@gmail.com
 Please specify who you are and how you found me please.
 
 <!---
